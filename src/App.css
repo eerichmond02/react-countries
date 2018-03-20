@@ -1,0 +1,37 @@
+body, html {
+  max-width: 1000px;
+}
+
+.App {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.tabs .tab-title {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+.filter-nav {
+  padding-right: 25px;
+  border-right: .5px solid grey;
+}
+
+img {
+  height: 150px;
+  width: auto;
+  outline: .5px solid lightgrey;
+}
+
+.card {
+  margin: 20px;
+}
+
+h4 {
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin: 0px;
+  margin-top: 50px;
+}
